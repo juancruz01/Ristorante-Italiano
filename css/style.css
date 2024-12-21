@@ -11,6 +11,7 @@ html{
     box-sizing: border-box;
     /*1rem = 10px (reseteamos los valors en pixeles del navegador)*/
     font-size: 63.5%;
+    scroll-behavior: smooth;
 }
 
 /*damos valores de 16px a los texto por defecto en nuestra pagina web*/
@@ -611,5 +612,5 @@ video{
     color: var(--blanco);
     padding: 2rem;
     font-size: 2rem;
-    
+
 }
